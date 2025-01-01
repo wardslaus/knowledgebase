@@ -2,8 +2,6 @@ fastapi[all]
 openai
 python-dotenv
 pydantic==1.*
-langchain
 faiss-cpu
 tiktoken
-langchain-community
-
+langchain==0.0.9
